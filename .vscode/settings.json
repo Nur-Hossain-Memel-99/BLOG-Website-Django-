@@ -1,0 +1,8 @@
+{
+    "emmet.preferences": {
+
+        "emmet.triggerExpansionOnTab": true,
+        "files.associations": {"*html":"html"},
+
+    }
+}
